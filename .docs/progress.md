@@ -1,3 +1,3 @@
 # Acompanhamento das aulas
 
-18/10 - Movies Row 2 - DONE
+20/10 - continuar na "Zod validation 1"

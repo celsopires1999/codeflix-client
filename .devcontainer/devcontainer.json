@@ -30,7 +30,8 @@
                 "esbenp.prettier-vscode",
                 "dsznajder.es7-react-js-snippets",
                 "eamodio.gitlens",
-                "bradlc.vscode-tailwindcss"
+                "bradlc.vscode-tailwindcss",
+                "stivo.tailwind-fold"
             ]
         }
     }
